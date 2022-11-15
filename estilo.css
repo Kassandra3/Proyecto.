@@ -1,0 +1,8 @@
+body {
+    background-color: cadetblue;}
+    div{display:block}
+    .myDiv{border: 2px rgb(rgb(81, 236, 241))}
+    header{background-color: rgb(44, 212, 198);
+    padding: 2px;
+text-align: center;font-size: 20px;
+color: white;} section{text-align: center;} footer{background-color: cornsilk;}
